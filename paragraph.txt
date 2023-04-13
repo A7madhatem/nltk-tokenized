@@ -1,0 +1,1 @@
+Hello this is the documentation of the task for IR section.In this project we are trying to tokenize word or sentence used nltk.nltk is a library used for nlp, and nlp stands for natural languages processing.I wrote this paragraph to test my code.Thank you for reading this and see you in the next task. 
